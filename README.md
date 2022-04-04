@@ -53,3 +53,8 @@ console.log('Hello'.length);
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
 - https://www.codecademy.com/resources/docs/javascript
 
+
+## Variable
+
+- const nmVariable = on ne peut pas modifier la variable
+- let nomVariable = on peut modif la variable 
