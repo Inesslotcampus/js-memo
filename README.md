@@ -50,4 +50,6 @@ console.log('Hello'.length);
 - console.log('    Remove whitespace   '.trim()); //Print Remove whitespace
 - console.log(Math.random()); // Prints a random number between 0 and 1
 - console.log(Math.floor(Math.random() * 50)); // Prints random number beteween 0 and 50
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
+- https://www.codecademy.com/resources/docs/javascript
 
