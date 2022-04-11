@@ -54,6 +54,9 @@ console.log('Hello'.length);
 - https://www.codecademy.com/resources/docs/javascript
 
 
+Array.filter
+
+
 ## Variable
 
 - const nmVariable = on ne peut pas modifier la variable; protée dans un bloc; instancier 1 fois
@@ -76,4 +79,14 @@ console.log('Hello'.length);
  
  ##Scope
 __An important idea in programming is scope. Scope defines where variables can be accessed or referenced.__
+
+## objet 
+
+var nmVar= {};
+this = permet de modifier dans 1 objet;
+
+### propriétés 
+
+- attributs
+- - method
 
