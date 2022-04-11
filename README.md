@@ -54,7 +54,11 @@ console.log('Hello'.length);
 - https://www.codecademy.com/resources/docs/javascript
 
 
-Array.filter
+
+
+
+-Array.filter= filter() appelle la fonction callback fournie pour chacun des éléments d'un tableau, et construit un nouveau tableau contenant tous les éléments pour lesquels l'appel de callback retourne true ou une valeur équivalente à true dans un contexte booléen. 
+
 
 
 ## Variable
