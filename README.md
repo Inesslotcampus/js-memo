@@ -88,5 +88,5 @@ this = permet de modifier dans 1 objet;
 ### propriétés 
 
 - attributs
-- - method
+- method
 
