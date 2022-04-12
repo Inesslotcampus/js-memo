@@ -107,3 +107,13 @@ ex = const found = citiesCopy.find(el => el.nom === nameCity)
 - Array.filter() crée et retourne un nouveau tableau contenant tous les éléments du tableau d'origine qui remplissent une condition déterminée par la fonction callback.
 - Array.forEach() permet d'exécuter une fonction donnée sur chaque élément du tableau.
 
+## jQuery
+
+__Bibliothèque de fonctions qui facilite la réalisation de taches communes__ Permet :
+- manip page web
+- recup données sur le serveur
+- construire anim 
+- ....
+
+
+
