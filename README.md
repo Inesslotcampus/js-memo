@@ -81,6 +81,8 @@ console.log('Hello'.length);
  
  __série d'instruction dans un bloc__
  
+ 
+ 
  ##Scope
 __An important idea in programming is scope. Scope defines where variables can be accessed or referenced.__
 
@@ -93,4 +95,15 @@ this = permet de modifier dans 1 objet;
 
 - attributs
 - method
+
+
+### function Array.filter() Array.forEach() Array.map() et Array.find()
+
+
+- Array.map() retourne un tableau qui transforme tous les éléments
+ex = const cities74 = citiesByDept.map(city => city.nom); 
+- Array.find() recupère le premier élément d'un tableau qui correspond à des conditions.
+ex = const found = citiesCopy.find(el => el.nom === nameCity)
+- Array.filter() crée et retourne un nouveau tableau contenant tous les éléments du tableau d'origine qui remplissent une condition déterminée par la fonction callback.
+- Array.forEach() permet d'exécuter une fonction donnée sur chaque élément du tableau.
 
