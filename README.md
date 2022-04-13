@@ -114,6 +114,6 @@ __Bibliothèque de fonctions qui facilite la réalisation de taches communes__ P
 - recup données sur le serveur
 - construire anim 
 - ....
-
+__Jquerrys remplace plusieurs lignes de code en Js par une seule ligne qui fait plusieurs actions contrairement à js vanilla. JQuerrys a aussi des fonctions préconçus qui réalisent des actions qu'on a pas à coder en js . $ permet de reconnaitre les jQueries__
 
 
