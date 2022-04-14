@@ -116,6 +116,6 @@ __Bibliothèque de fonctions qui facilite la réalisation de taches communes__ P
 - ....
 __Jquerrys remplace plusieurs lignes de code en Js par une seule ligne qui fait plusieurs actions contrairement à js vanilla. JQuerrys a aussi des fonctions préconçus qui réalisent des actions qu'on a pas à coder en js.  $ permet de reconnaitre les jQueries. __
 
-##DOM
+## DOM
 
 __Le Document Object Model ou DOM (pour modèle objet de document) est une interface de programmation pour les documents HTML, XML et SVG. Il fournit une représentation structurée du document sous forme d'un arbre et définit la façon dont la structure peut être manipulée par les programmes, en termes de style et de contenu.__
